@@ -21,4 +21,5 @@ It's not quite finished, I'm still working on it.
 - ReactJS
 - ChackraUI
 - ZustandJS
+- FabricJS
 - Typescript
