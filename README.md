@@ -20,3 +20,5 @@ It's not quite finished, I'm still working on it.
 - ChackraUI
 - ZustandJS
 - Typescript
+
+Depending on your connection, the loading of the canvas may take a few seconds more or less. Still need to add a loading message for user feedback. Some things don't work, please be patient, I'm still working on adding them :D
