@@ -2,7 +2,7 @@
 
 ### [DEMO](https://imageeditordemo.pages.dev)
 
-<font size="5">Depending on your connection, the loading of the canvas may take a few seconds more or less. Still need to add a loading message for user feedback. Some things don't work, please be patient, I'm still working on adding them :D</font>
+<font size="2">Depending on your connection, the loading of the canvas may take a few seconds more or less. Still need to add a loading message for user feedback. Some things don't work, please be patient, I'm still working on adding them :D</font>
 
 This is a project that I have been working on for the last two months, it is a web application that edits images, among its features are:
 - Rotate image.
