@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+test-editor-img.clpprj
+test-editor-img_clcs.csprj
+package-lock.json
