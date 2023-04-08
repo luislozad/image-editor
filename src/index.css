@@ -1,0 +1,55 @@
+.w-color-sketch {
+	box-shadow: none !important;
+	padding: 0px !important;
+}
+
+.w-color-sketch > div:first-child {
+	padding-top: 0px !important;
+}
+
+.w-color-sketch > div:nth-child(n) {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.w-color-interactive {
+	cursor: default !important;
+}
+
+.w-color-interactive > div:first-child {
+	width: 8px !important;
+	border-radius: 50% !important;
+}
+
+.w-color-alpha {
+	border-radius: 50% !important;
+}
+
+.w-color-saturation-fill {
+	width: 9px !important;
+	height: 9px !important;
+}
+
+.w-color-editable-input > input {
+	padding-top: 4px !important;
+/*	padding-bottom: 4px !important;*/
+	border-radius: 4px !important;
+	padding-left: 4px !important;
+	outline-width: 1px !important;
+	text-align: left !important;
+}
+
+.w-color-editable-input > span {
+	user-select: none !important;
+}
+
+.tippy-box[data-theme~='light'] {
+  background-color: #eeeeee;
+/*  color: yellow;*/
+}
+
+.tippy-box[data-theme~='light'][data-placement^='bottom'] > .tippy-arrow::before {
+  border-bottom-color: #eeeeee;
+}

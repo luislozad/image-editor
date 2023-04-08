@@ -1,0 +1,1314 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="E:\Programacion\JavaScript\Code\test-editor-img\test-editor-img.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/E:/Programacion/JavaScript/Code/test-editor-img]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/E:/Programacion/JavaScript/Code/test-editor-img]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="E:\Programacion\JavaScript\Code\test-editor-img\src\theme\index.ts"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\.vite\deps\@chakra-ui_react.js">
+   <todo name="TODO Maybe we should warn here if there's a length mismatch" pos="5;14980"/>
+   <todo name="TODO Reinstate this if only child" pos="7;17716"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\.vite\deps\chunk-GHDA5FLN.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="11;757"/>
+   <todo name="TODO: Remove Update flag from before mutation phase by re-landing Visibility" pos="11;3874"/>
+   <todo name="TODO: ideally, we'd eventually add all events from" pos="59;6978"/>
+   <todo name="TODO: Only ignore them on controlled tags." pos="15;7894"/>
+   <todo name="TODO: Distinguish by namespace here -- for &lt;title>, including it here" pos="13;8053"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="19;9327"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="23;9390"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="23;9403"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="21;9547"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="21;9563"/>
+   <todo name="TODO: In some cases, we'll end up checking if context has changed twice," pos="176;11084"/>
+   <todo name="TODO: When we delete legacy mode, we should make this error argument" pos="17;15294"/>
+   <todo name="TODO: Remove this dead flag" pos="17;17590"/>
+   <todo name="TODO: Remove this dead flag" pos="17;17839"/>
+   <todo name="TODO: Remove outdated deferRenderPhaseUpdateToNextBatch experiment. We" pos="13;18571"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\.vite\deps\chunk-SA4Q2NBN.js">
+   <todo name="TODO: Expose pendingState or don't use it" pos="33;229"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@ampproject\remapping\dist\remapping.umd.js">
+   <todo name="TODO: We should eventually support async loading of sourcemap files." pos="13;146"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@babel\parser\typings\babel-parser.d.ts">
+   <todo name="todo(flow->ts) real token type" pos="3;213"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@babel\runtime\regenerator\index.js">
+   <todo name="TODO(Babel 8): Remove this file." pos="1;0"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@emotion\cache\dist\emotion-cache.browser.esm.js">
+   <todo name="TODO: consider changing this comment placement in the next major version" pos="9;180"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@emotion\cache\dist\emotion-cache.cjs.dev.js">
+   <todo name="TODO: consider changing this comment placement in the next major version" pos="9;189"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@emotion\cache\dist\emotion-cache.esm.js">
+   <todo name="TODO: consider changing this comment placement in the next major version" pos="9;180"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@emotion\cache\dist\emotion-cache.worker.esm.js">
+   <todo name="TODO: consider changing this comment placement in the next major version" pos="9;180"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@emotion\cache\src\stylis-plugins.js">
+   <todo name="TODO: consider changing this comment placement in the next major version" pos="7;210"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\animation\dist\Animation.cjs.js">
+   <todo name="TODO: Temporary fix for OptionsResolver typing" pos="13;35"/>
+   <todo name="TODO progress += iterationStart" pos="13;62"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\animation\dist\Animation.es.js">
+   <todo name="TODO: Temporary fix for OptionsResolver typing" pos="13;31"/>
+   <todo name="TODO progress += iterationStart" pos="13;58"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\animation\lib\Animation.js">
+   <todo name="TODO: Temporary fix for OptionsResolver typing" pos="13;30"/>
+   <todo name="TODO progress += iterationStart" pos="13;57"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\easing\create-generator-easing.cjs.js">
+   <todo name="TODO Add test for this" pos="21;90"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\easing\create-generator-easing.es.js">
+   <todo name="TODO Add test for this" pos="21;86"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\gestures\scroll\offsets\index.cjs.js">
+   <todo name="TODO: More reusable data structures for targetSize/containerSize would also be good." pos="2;29"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\gestures\scroll\offsets\index.es.js">
+   <todo name="TODO: More reusable data structures for targetSize/containerSize would also be good." pos="2;25"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\motion-umd.dev.js">
+   <todo name="TODO: Temporary fix for OptionsResolver typing" pos="17;222"/>
+   <todo name="TODO progress += iterationStart" pos="17;249"/>
+   <todo name="TODO: Ensure there's a test that covers this removal" pos="2;1113"/>
+   <todo name="TODO Add test for this" pos="25;1459"/>
+   <todo name="TODO: More reusable data structures for targetSize/containerSize would also be good." pos="2;1820"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\timeline\index.cjs.js">
+   <todo name="TODO: Ensure there's a test that covers this removal" pos="2;102"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\dist\timeline\index.es.js">
+   <todo name="TODO: Ensure there's a test that covers this removal" pos="2;98"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\lib\easing\create-generator-easing.js">
+   <todo name="TODO Add test for this" pos="21;86"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\lib\gestures\scroll\offsets\index.js">
+   <todo name="TODO: More reusable data structures for targetSize/containerSize would also be good." pos="2;24"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@motionone\dom\lib\timeline\index.js">
+   <todo name="TODO: Ensure there's a test that covers this removal" pos="2;97"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@swc\core\index.js">
+   <todo name="todo: fix package.json scripts" pos="1;56"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@swc\core\postinstall.js">
+   <todo name="TODO: We do not take care of the case if user try to install with `--no-optional`." pos="5;76"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@types\fabric\fabric-impl.d.ts">
+   <todo name="TODO: would be cool if findTarget could discern between being a full target" pos="13;2026"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@types\lodash\common\object.d.ts">
+   <todo name="TODO: Probably should just put all these methods on Object and forget about it." pos="5;1837"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@types\lodash\ts4.2\common\object.d.ts">
+   <todo name="TODO: Probably should just put all these methods on Object and forget about it." pos="5;1776"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@types\react-dom\test-utils\index.d.ts">
+   <todo name="toDocument` choose the last overload on the" pos="19;163"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\@types\react\index.d.ts">
+   <todo name="TODO: generalize this to everything in `keyof ReactHTML`, not just &quot;input&quot;" pos="5;253"/>
+   <todo name="TODO: similar to how Fragment is actually a symbol, the values returned from createContext," pos="5;336"/>
+   <todo name="TODO: double-check if this weird overload logic is necessary. It is possible it's either a bug" pos="5;990"/>
+   <todo name="TODO: change any to unknown when moving to TS v3" pos="5;1183"/>
+   <todo name="TODO: It is SVGAnimateElement but is not in TypeScript's lib.dom.d.ts for now." pos="50;3267"/>
+   <todo name="TODO: It is SVGAnimateTransformElement but is not in TypeScript's lib.dom.d.ts for now." pos="59;3269"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\callsites\index.d.ts">
+   <todo name="TODO: Remove this for the next major release, refactor the whole definition to:" pos="2;89"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\callsites\index.js">
+   <todo name="TODO: Remove this for the next major release" pos="1;11"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\canvas\index.js">
+   <todo name="TODO this doesn't need to be on Canvas; it should just be a static method" pos="3;45"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\canvas\lib\DOMMatrix.js">
+   <todo name="TODO This is supposed to support any CSS transform value." pos="5;57"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\canvas\lib\canvas.js">
+   <todo name="TODO || is for Node.js pre-v6.6.0" pos="1;17"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\canvas\lib\image.js">
+   <todo name="TODO https://github.com/Automattic/node-canvas/issues/118" pos="5;72"/>
+   <todo name="TODO || is for Node.js pre-v6.6.0" pos="1;79"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\canvas\lib\parse-font.js">
+   <todo name="TODO: ch, ex" pos="3;69"/>
+   <todo name="TODO disabled because existing unit tests assume 100" pos="7;87"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\color-support\index.js">
+   <todo name="TODO: add more term programs" pos="3;99"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\cssom\lib\CSSValue.js">
+   <todo name="TODO: add if needed" pos="2;9"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\cssstyle\lib\CSSStyleDeclaration.test.js">
+   <todo name="TODO - deprecated according to MDN and not implemented at all, can we remove?" pos="5;44"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\cssstyle\node_modules\cssom\lib\CSSValue.js">
+   <todo name="TODO: add if needed" pos="2;9"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\data-urls\node_modules\whatwg-url\lib\percent-encoding.js">
+   <todo name="TODO: support encodi" pos="80;93"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\data-urls\node_modules\whatwg-url\lib\url-state-machine.js">
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1021"/>
+   <todo name="TODO: Add: not a URL code point" pos="5;1043"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1078"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1094"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\data-urls\node_modules\whatwg-url\lib\urlencoded.js">
+   <todo name="TODO &quot;get the output encoding&quot;, i.e. handle encoding labels vs. names." pos="5;48"/>
+   <todo name="TODO: handle encoding override" pos="5;54"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\debug\src\browser.js">
+   <todo name="TODO: add a `localStorage` variable to explicitly enable/disable colors" pos="2;110"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\decimal.js\decimal.js">
+   <todo name="TODO? Compare Newton's method." pos="5;373"/>
+   <todo name="TODO? Replace with for-loop and checkRoundingDigits." pos="7;380"/>
+   <todo name="TODO? Estimation reused from cosine() and may not be optimal here." pos="5;568"/>
+   <todo name="TODO? Special case acos(0.5) = pi/3 and acos(-0.5) = 2*pi/3" pos="5;742"/>
+   <todo name="TODO? Special case asin(1/2) = pi/6 and asin(-1/2) = -pi/6" pos="5;934"/>
+   <todo name="TODO? if (x >= 1 &amp;&amp; pr &lt;= PI_PRECISION) atan(x) = halfPi * x.s - atan(1 / x);" pos="5;991"/>
+   <todo name="TODO? Replace with for-loop and checkRoundingDigits." pos="7;1771"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\decompress-response\index.d.ts">
+   <todo name="TODO: remove this in the next major version, refactor the whole definition to:" pos="2;22"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\decompress-response\index.js">
+   <todo name="TODO: remove this in the next major version" pos="1;38"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\dist\fabric.js">
+   <todo name="TODO: can we normalize this with the starting points set at 0 and then translated the bbox?" pos="3;2076"/>
+   <todo name="TODO: this function return an empty object if you try to clone null" pos="3;2945"/>
+   <todo name="TODO: rename in scalarMultiply in 2.0" pos="2;5782"/>
+   <todo name="TODO: rename in scalarMultiplyEquals in 2.0" pos="2;5792"/>
+   <todo name="TODO: rename in scalarDivide in 2.0" pos="2;5805"/>
+   <todo name="TODO: rename in scalarDivideEquals in 2.0" pos="2;5815"/>
+   <todo name="TODO: rename in intersectSegmentSegment" pos="2;6054"/>
+   <todo name="TODO: rename in intersectSegmentPolygon" pos="2;6091"/>
+   <todo name="TODO: fix stretched examples" pos="5;9251"/>
+   <todo name="TODO: just change the scale, preserve other transformations" pos="7;9592"/>
+   <todo name="TODO: would be cool if findTarget could discern between being a full target" pos="13;12362"/>
+   <todo name="TODO find a better solution?" pos="7;15681"/>
+   <todo name="TODO: this function does not consider mixed situation like top, center." pos="7;16639"/>
+   <todo name="TODO: test this" pos="7;18555"/>
+   <todo name="todo - add support for justify" pos="11;26736"/>
+   <todo name="TODO: verify compatibility with strokeUniform" pos="11;27013"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\lib\event.js">
+   <todo name="TODO: fix Firefox for the general case." pos="3;464"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\canvas.class.js">
+   <todo name="TODO: would be cool if findTarget could discern between being a full target" pos="13;719"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\intersection.class.js">
+   <todo name="TODO: rename in intersectSegmentSegment" pos="2;54"/>
+   <todo name="TODO: rename in intersectSegmentPolygon" pos="2;91"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\mixins\object_origin.mixin.js">
+   <todo name="TODO: this function does not consider mixed situation like top, center." pos="7;188"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\point.class.js">
+   <todo name="TODO: rename in scalarMultiply in 2.0" pos="2;121"/>
+   <todo name="TODO: rename in scalarMultiplyEquals in 2.0" pos="2;131"/>
+   <todo name="TODO: rename in scalarDivide in 2.0" pos="2;144"/>
+   <todo name="TODO: rename in scalarDivideEquals in 2.0" pos="2;154"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\shapes\line.class.js">
+   <todo name="TODO: test this" pos="7;162"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\shapes\object.class.js">
+   <todo name="TODO find a better solution?" pos="7;1240"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\shapes\text.class.js">
+   <todo name="todo - add support for justify" pos="11;840"/>
+   <todo name="TODO: verify compatibility with strokeUniform" pos="11;1117"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\static_canvas.class.js">
+   <todo name="TODO: fix stretched examples" pos="5;375"/>
+   <todo name="TODO: just change the scale, preserve other transformations" pos="7;716"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\util\lang_object.js">
+   <todo name="TODO: this function return an empty object if you try to clone null" pos="3;63"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fabric\src\util\path.js">
+   <todo name="TODO: can we normalize this with the starting points set at 0 and then translated the bbox?" pos="3;121"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\focus-lock\dist\es2015\utils\parenting.js">
+   <todo name="TODO: add assert here?" pos="5;48"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\focus-lock\dist\es2019\utils\parenting.js">
+   <todo name="TODO: add assert here?" pos="5;47"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\focus-lock\dist\es5\utils\parenting.js">
+   <todo name="TODO: add assert here?" pos="5;52"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\form-data\lib\form_data.js">
+   <todo name="TODO: Looks like there is bug in Node fs.createReadStream" pos="5;121"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\framer-motion\dist\cjs\index.js">
+   <todo name="TODO maybe throw if v.length - 1 is placeholder token?" pos="5;1179"/>
+   <todo name="TODO: Remove and move to library" pos="2;1186"/>
+   <todo name="TODO Remove this cast - needed since Framer Motion's stricter typing" pos="9;2934"/>
+   <todo name="TODO Revist this approach once we've moved to data models for values," pos="2;3070"/>
+   <todo name="TODO Maybe we should warn here if there's a length mismatch" pos="5;3225"/>
+   <todo name="TODO: Support extra wildcard keyframes i.e [1, null, 0]" pos="2;4040"/>
+   <todo name="TODO: Can probably change this to a !isControllingVariants check" pos="2;4378"/>
+   <todo name="TODO: Test as this should probably still handle animations triggered" pos="2;4517"/>
+   <todo name="TODO: Look into moving this into pansession?" pos="9;5149"/>
+   <todo name="TODO" pos="9;5338"/>
+   <todo name="TODO: The current implementation of this basically throws an error" pos="9;5832"/>
+   <todo name="TODO: Only update values that aren't being animated or even looked at" pos="17;6005"/>
+   <todo name="TODO: This is currently set on every individual VisualElement but feels" pos="2;6057"/>
+   <todo name="TODO: This is impure and we should look at changing this to run on mount." pos="2;6123"/>
+   <todo name="TODO: Doesn't support multiple shadows" pos="9;6663"/>
+   <todo name="TODO Reinstate this if only child" pos="9;6864"/>
+   <todo name="TODO: This could be faster to iterate as a flat array stored on the root node." pos="2;7219"/>
+   <todo name="TODO: Lazy-init" pos="2;7276"/>
+   <todo name="TODO Only running on root node" pos="13;7307"/>
+   <todo name="TODO: Check here if an animation exists" pos="21;7385"/>
+   <todo name="TODO: Every time a new component is rendered we could search up the tree for" pos="2;7520"/>
+   <todo name="TODO: Incorporate into a forwarded scroll offset" pos="13;7581"/>
+   <todo name="TODO If this is unsuccessful this currently happens every frame" pos="13;7805"/>
+   <todo name="TODO: This is a semi-repetition of further down this function, make DRY" pos="17;7807"/>
+   <todo name="TODO: This is creating a new object every frame" pos="21;7846"/>
+   <todo name="TODO: Schedule render" pos="13;7965"/>
+   <todo name="TODO: Schedule render" pos="13;7969"/>
+   <todo name="TODO: Return lifecycle-persistent object" pos="13;8210"/>
+   <todo name="TODO Maybe we want to also resize the layout snapshot so we don't trigger" pos="9;8347"/>
+   <todo name="TODO: Investigate why this transition is being passed in as {type: false } from Framer" pos="2;8417"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\framer-motion\dist\framer-motion.dev.js">
+   <todo name="TODO maybe throw if v.length - 1 is placeholder token?" pos="9;1177"/>
+   <todo name="TODO: Remove and move to library" pos="2;1184"/>
+   <todo name="TODO Remove this cast - needed since Framer Motion's stricter typing" pos="13;2947"/>
+   <todo name="TODO Revist this approach once we've moved to data models for values," pos="2;3083"/>
+   <todo name="TODO Maybe we should warn here if there's a length mismatch" pos="9;3238"/>
+   <todo name="TODO: Support extra wildcard keyframes i.e [1, null, 0]" pos="2;4053"/>
+   <todo name="TODO: Can probably change this to a !isControllingVariants check" pos="2;4391"/>
+   <todo name="TODO: Test as this should probably still handle animations triggered" pos="2;4530"/>
+   <todo name="TODO: Look into moving this into pansession?" pos="13;5162"/>
+   <todo name="TODO" pos="13;5351"/>
+   <todo name="TODO: The current implementation of this basically throws an error" pos="13;5845"/>
+   <todo name="TODO: Only update values that aren't being animated or even looked at" pos="21;6018"/>
+   <todo name="TODO: This is currently set on every individual VisualElement but feels" pos="2;6070"/>
+   <todo name="TODO: This is impure and we should look at changing this to run on mount." pos="2;6136"/>
+   <todo name="TODO: Doesn't support multiple shadows" pos="13;6675"/>
+   <todo name="TODO Reinstate this if only child" pos="13;6876"/>
+   <todo name="TODO: This could be faster to iterate as a flat array stored on the root node." pos="2;7231"/>
+   <todo name="TODO: Lazy-init" pos="2;7288"/>
+   <todo name="TODO Only running on root node" pos="17;7319"/>
+   <todo name="TODO: Check here if an animation exists" pos="25;7397"/>
+   <todo name="TODO: Every time a new component is rendered we could search up the tree for" pos="2;7532"/>
+   <todo name="TODO: Incorporate into a forwarded scroll offset" pos="17;7593"/>
+   <todo name="TODO If this is unsuccessful this currently happens every frame" pos="17;7817"/>
+   <todo name="TODO: This is a semi-repetition of further down this function, make DRY" pos="21;7819"/>
+   <todo name="TODO: This is creating a new object every frame" pos="25;7858"/>
+   <todo name="TODO: Schedule render" pos="17;7977"/>
+   <todo name="TODO: Schedule render" pos="17;7981"/>
+   <todo name="TODO: Return lifecycle-persistent object" pos="17;8222"/>
+   <todo name="TODO Maybe we want to also resize the layout snapshot so we don't trigger" pos="13;8359"/>
+   <todo name="TODO: Investigate why this transition is being passed in as {type: false } from Framer" pos="2;8429"/>
+   <todo name="TODO: More reusable data structures for targetSize/containerSize would also be good." pos="2;9831"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\framer-motion\dist\index.d.ts">
+   <todo name="TODO: This is currently set on every individual VisualElement but feels" pos="2;1395"/>
+   <todo name="TODO: This might be better replaced with a method isParentMounted" pos="2;1405"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\framer-motion\dist\projection.dev.js">
+   <todo name="TODO Remove this cast - needed since Framer Motion's stricter typing" pos="11;439"/>
+   <todo name="TODO Revist this approach once we've moved to data models for values," pos="2;641"/>
+   <todo name="TODO Maybe we should warn here if there's a length mismatch" pos="7;796"/>
+   <todo name="TODO: Support extra wildcard keyframes i.e [1, null, 0]" pos="2;1753"/>
+   <todo name="TODO Reinstate this if only child" pos="11;2276"/>
+   <todo name="TODO: Remove and move to library" pos="2;2817"/>
+   <todo name="TODO: This could be faster to iterate as a flat array stored on the root node." pos="2;2866"/>
+   <todo name="TODO: Lazy-init" pos="2;2923"/>
+   <todo name="TODO Only running on root node" pos="15;2954"/>
+   <todo name="TODO: Check here if an animation exists" pos="23;3032"/>
+   <todo name="TODO: Every time a new component is rendered we could search up the tree for" pos="2;3167"/>
+   <todo name="TODO: Incorporate into a forwarded scroll offset" pos="15;3228"/>
+   <todo name="TODO If this is unsuccessful this currently happens every frame" pos="15;3452"/>
+   <todo name="TODO: This is a semi-repetition of further down this function, make DRY" pos="19;3454"/>
+   <todo name="TODO: This is creating a new object every frame" pos="23;3493"/>
+   <todo name="TODO: Schedule render" pos="15;3612"/>
+   <todo name="TODO: Schedule render" pos="15;3616"/>
+   <todo name="TODO: Return lifecycle-persistent object" pos="15;3857"/>
+   <todo name="TODO Maybe we want to also resize the layout snapshot so we don't trigger" pos="11;3994"/>
+   <todo name="TODO: Investigate why this transition is being passed in as {type: false } from Framer" pos="2;4064"/>
+   <todo name="TODO: Doesn't support multiple shadows" pos="11;4424"/>
+   <todo name="TODO: The current implementation of this basically throws an error" pos="11;4856"/>
+   <todo name="TODO: Only update values that aren't being animated or even looked at" pos="19;5131"/>
+   <todo name="TODO: This is currently set on every individual VisualElement but feels" pos="2;5183"/>
+   <todo name="TODO: This is impure and we should look at changing this to run on mount." pos="2;5249"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\framer-motion\dist\three-entry.d.ts">
+   <todo name="TODO: This is currently set on every individual VisualElement but feels" pos="2;1292"/>
+   <todo name="TODO: This might be better replaced with a method isParentMounted" pos="2;1302"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\fs-minipass\node_modules\minipass\index.js">
+   <todo name="TODO remove when Node v8 support drops" pos="1;35"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\glob\common.js">
+   <todo name="TODO: is an absolute `cwd` supposed to be resolved against `root`?" pos="3;101"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\hoist-non-react-statics\dist\hoist-non-react-statics.js">
+   <todo name="TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary" pos="77;71"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\iconv-lite\encodings\dbcs-codec.js">
+   <todo name="TODO: What if we have no default? (resCode == undefined)" pos="21;378"/>
+   <todo name="todo above." pos="17;455"/>
+   <todo name="TODO: Callback with seq." pos="13;504"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\iconv-lite\encodings\dbcs-data.js">
+   <todo name="TODO: KDDI extension to Shift_JIS" pos="5;63"/>
+   <todo name="TODO: IBM CCSID 942 = CP932, but F0-F9 custom chars and other char changes." pos="5;64"/>
+   <todo name="TODO: IBM CCSID 943 = Shift_JIS = CP932 with original Shift_JIS lower 128 chars." pos="5;65"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\api.js">
+   <todo name="TODO NEWAPI move _cookieJar to window probably" pos="5;57"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\browser\Window.js">
+   <todo name="TODO: implement timer nesting level behavior." pos="5;501"/>
+   <todo name="TODO: Parse pseudoElt" pos="7;786"/>
+   <todo name="TODO: should be getters)" pos="31;831"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\browser\parser\html.js">
+   <todo name="TODO: the rest of jsdom ignores this" pos="5;156"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\browser\resources\resource-loader.js">
+   <todo name="TODO This deviates from the spec when it comes to" pos="13;104"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\level2\style.js">
+   <todo name="TODO" pos="3;9"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\level3\xpath.js">
+   <todo name="TODO: not really needed, but supposedly tokenizer also disambiguates" pos="5;53"/>
+   <todo name="TODO" pos="18;233"/>
+   <todo name="TODO" pos="3;548"/>
+   <todo name="TODO: use optimization. Also try element.getElementsByTagName" pos="5;864"/>
+   <todo name="TODO: figure out whether positions should be undefined here." pos="9;1155"/>
+   <todo name="TODO: with namespace" pos="11;1159"/>
+   <todo name="TODO: I think this check is unnecessary" pos="45;1178"/>
+   <todo name="TODO" pos="9;1236"/>
+   <todo name="TODO: namespaced version" pos="7;1370"/>
+   <todo name="TODO" pos="7;1374"/>
+   <todo name="TODO" pos="5;1460"/>
+   <todo name="TODO: don't generate '/' nodes, just Axis nodes." pos="11;1646"/>
+   <todo name="TODO: give option" pos="40;1658"/>
+   <todo name="TODO: is copy needed?" pos="46;1662"/>
+   <todo name="TODO" pos="7;1695"/>
+   <todo name="TODO: we removed mutation events but didn't take care of this. No tests fail, so that's nice, but e" pos="5;1751"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\domparsing\DOMParser-impl.js">
+   <todo name="TODO: somehow set URL to active document's URL" pos="9;47"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\create-event-accessor.js">
+   <todo name="TODO: we don't implement BeforeUnloadEvent so we can't brand-check here" pos="5;38"/>
+   <todo name="TODO: Consider replacing this with `[ReflectEvent]`" pos="1;175"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\form-controls.js">
+   <todo name="TODO: using parseFloatingPointNumber in addition to isValidFloatingPointNumber to pass number.html" pos="7;226"/>
+   <todo name="TODO: using parseFloatingPointNumber in addition to isValidFloatingPointNumber to pass number.html" pos="7;235"/>
+   <todo name="TODO: The spec describes an imperative process for assigning/resetting an element's form" pos="1;273"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js">
+   <todo name="TODO: investigate this further and ideally remove" pos="3;69"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\internal-constants.js">
+   <todo name="TODO: the many underscore-prefixed hooks should move here" pos="1;5"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\shadow-dom.js">
+   <todo name="TODO: remove this entire function and use _ge" pos="57;96"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\helpers\stylesheets.js">
+   <todo name="TODO: this should really implement https://html.spec.whatwg.org/multipage/links.html#link-type-styl" pos="1;5"/>
+   <todo name="TODO: &quot;Set the CSS style sheet’s parent CSS style sheet, owner node and owner CSS rule to null.&quot;" pos="3;20"/>
+   <todo name="TODO: title and disabled stuff" pos="3;54"/>
+   <todo name="TODO: MIME type checking?" pos="5;69"/>
+   <todo name="TODO this is actually really messed up and overwrites the sheet on elementImpl" pos="1;82"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\mutation-observer\MutationObserver-impl.js">
+   <todo name="TODO: revisit if https://github.com/jsdom/webidl2js/pull/108 gets fixed." pos="5;84"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\Document-impl.js">
+   <todo name="TODO: each style and link element should register its sheet on creation" pos="5;881"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\Element-impl.js">
+   <todo name="TODO: maybe parse5 can give us a hook where it serializes the node itself too:" pos="5;161"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFormElement-impl.js">
+   <todo name="TODO: Return a HTMLFormControlsCollection" pos="5;63"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHyperlinkElementUtils-impl.js">
+   <todo name="TODO: Correctly check if the document is fully active" pos="5;13"/>
+   <todo name="TODO: Create new browsing context, handle noopener" pos="5;46"/>
+   <todo name="TODO: Handle hyperlink suffix and referrerpolicy" pos="5;78"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLImageElement-impl.js">
+   <todo name="TODO: handle crossorigin" pos="5;14"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLLinkElement-impl.js">
+   <todo name="TODO crossorigin=&quot;&quot; or type=&quot;&quot;" pos="28;37"/>
+   <todo name="TODO: refactor into general link-fetching like the spec." pos="1;70"/>
+   <todo name="TODO handle crossorigin=&quot;&quot;, nonce, integrity=&quot;&quot;, referrerpolicy=&quot;&quot;" pos="3;83"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLOrSVGElement-impl.js">
+   <todo name="TODO this should be [Reflect]able if we added default value support to webidl2js's [Reflect]" pos="3;23"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\HTMLScriptElement-impl.js">
+   <todo name="TODO: this text check doesn't seem completely the same as the spec, which e.g. will try to execute" pos="5;142"/>
+   <todo name="TODO: implement modules, and then change the check to `type === null`." pos="7;156"/>
+   <todo name="TODO: implement nomodule here, **but only after we support modules**." pos="5;162"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\SVGElement-impl.js">
+   <todo name="TODO: &lt;symbol>/&lt;use> may make this different from ownerSVGElement." pos="5;52"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\nodes\SVGSVGElement-impl.js">
+   <todo name="TODO: optimize with _ids caching trick; see Document class." pos="5;20"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\post-message.js">
+   <todo name="TODO: Fix me" pos="7;16"/>
+   <todo name="TODO: targetOrigin === '/' - requires reference to source window" pos="5;24"/>
+   <todo name="TODO: event.source - requires reference to source window" pos="5;30"/>
+   <todo name="TODO: event.origin - requires reference to source window" pos="5;31"/>
+   <todo name="TODO: event.ports" pos="5;32"/>
+   <todo name="TODO: event.data - structured clone message - requires cloning DOM nodes" pos="5;33"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\selection\Selection-impl.js">
+   <todo name="TODO: Emit &quot;selectionchange&quot; event. At this time, there is currently no test in WPT covering this." pos="5;334"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\svg\SVGListBase.js">
+   <todo name="TODO: support non-DOMString lists." pos="5;38"/>
+   <todo name="TODO: clone non-DOMString list elements." pos="5;97"/>
+   <todo name="TODO: clone non-DOMString list elements." pos="5;122"/>
+   <todo name="TODO: clone non-DOMString list elements." pos="5;146"/>
+   <todo name="TODO: clone non-DOMString list elements." pos="5;177"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\window\History-impl.js">
+   <todo name="TODO structured clone data" pos="5;68"/>
+   <todo name="TODO: If the current entry in the session history represents a non-GET request" pos="5;122"/>
+   <todo name="TODO clone again!! O_o" pos="25;130"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\window\SessionHistory.js">
+   <todo name="TODO: unload the active document with the recycle parameter set to false" pos="11;71"/>
+   <todo name="TODO structured clone" pos="47;124"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\window\navigation.js">
+   <todo name="TODO:" pos="3;75"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\xhr\FormData-impl.js">
+   <todo name="TODO: handle encoding" pos="3;95"/>
+   <todo name="TODO: handling &quot;constructing entry list&quot;" pos="3;96"/>
+   <todo name="TODO: Handle &lt;input type=&quot;image&quot;>" pos="5;121"/>
+   <todo name="TODO: handle form-associated custom elements." pos="5;122"/>
+   <todo name="TODO: formdata event" pos="3;158"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequest-impl.js">
+   <todo name="TODO: Add support for URLSearchParams and ReadableStream" pos="3;506"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequestEventTarget-impl.js">
+   <todo name="TODO: remove this when we fix EventTargetImpl to use this._globalObject directly instead of using _" pos="3;8"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\living\xhr\xhr-utils.js">
+   <todo name="TODO this should become &quot;resource loading&quot; when XHR goes through resource loader" pos="36;63"/>
+   <todo name="TODO: implement https://html.spec.whatwg.org/#multipart-form-data" pos="11;293"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\jsdom\lib\jsdom\vm-shim.js">
+   <todo name="TODO: This should probably use a symbol" pos="3;13"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\mime-types\index.js">
+   <todo name="TODO: use media-typer" pos="3;53"/>
+   <todo name="TODO: should this even be in this module?" pos="3;77"/>
+   <todo name="TODO: use content-type or other module" pos="3;90"/>
+   <todo name="TODO: use media-typer" pos="3;111"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\minimatch\minimatch.js">
+   <todo name="TODO: It would probably be faster to determine this" pos="9;490"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\minipass\index.js">
+   <todo name="TODO remove when Node v8 support drops" pos="1;43"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\minizlib\node_modules\minipass\index.js">
+   <todo name="TODO remove when Node v8 support drops" pos="1;35"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\node-fetch\node_modules\whatwg-url\lib\URL-impl.js">
+   <todo name="TODO: query stuff" pos="5;23"/>
+   <todo name="TODO: query stuff" pos="5;163"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\node-fetch\node_modules\whatwg-url\lib\url-state-machine.js">
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1074"/>
+   <todo name="TODO: Add: not a URL code point" pos="5;1096"/>
+   <todo name="TODO: Use encoding override instead" pos="45;1121"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1137"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1155"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\nwsapi\src\modules\nwsapi-traversal.js">
+   <todo name="TODO: all of this needs tests" pos="3;7"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\prop-types\prop-types.js">
+   <todo name="TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary" pos="76;1128"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\psl\dist\psl.js">
+   <todo name="TODO: Simply remove trailing dot?" pos="3;9528"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\psl\index.js">
+   <todo name="TODO: Simply remove trailing dot?" pos="3;150"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom-server-legacy.browser.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="61;295"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="7;1862"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="60;1964"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="3;2055"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="11;2114"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="13;2186"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="31;2396"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="9;2410"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="5;2591"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="3;2686"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="5;2849"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="5;3021"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="4;3150"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="5;3984"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="3;4802"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="3;5205"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="3;5583"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="5;5627"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="5;5959"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="5;5966"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="63;5979"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="9;6160"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="3;6247"/>
+   <todo name="TODO: Emit preloading." pos="5;6799"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="5;6800"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="32;6848"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="61;296"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="7;1863"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="60;1965"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="3;2056"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="11;2115"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="13;2187"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="31;2397"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="9;2411"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="5;2592"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="3;2687"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="5;2850"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="5;3022"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="4;3151"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="5;3985"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="3;4803"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="3;5206"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="3;5584"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="5;5628"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="5;5960"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="5;5967"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="63;5980"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="9;6161"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="3;6248"/>
+   <todo name="TODO: Emit preloading." pos="5;6800"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="5;6801"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="32;6849"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom-server.browser.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="61;361"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="7;1933"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="60;2035"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="3;2126"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="11;2185"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="13;2257"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="31;2467"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="9;2481"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="5;2662"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="3;2757"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="5;2920"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="5;3092"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="4;3221"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="5;3981"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="3;4799"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="3;5202"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="3;5580"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="5;5624"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="5;5956"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="5;5963"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="63;5976"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="9;6157"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="3;6244"/>
+   <todo name="TODO: Emit preloading." pos="5;6797"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="5;6798"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="32;6846"/>
+   <todo name="TODO: Move to sub-classing ReadableStream." pos="11;6968"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom-server.node.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="61;427"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="7;1999"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="60;2101"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="3;2192"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="11;2251"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="13;2323"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="31;2533"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="9;2547"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="5;2728"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="3;2823"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="5;2986"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="5;3158"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="4;3287"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="5;4047"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="3;4865"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="3;5268"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="3;5646"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="5;5690"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="5;6022"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="5;6029"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="63;6042"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="9;6223"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="3;6310"/>
+   <todo name="TODO: Emit preloading." pos="5;6863"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="5;6864"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="32;6912"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom-test-utils.development.js">
+   <todo name="TODO: Check if this was a nested HostRoot when used with" pos="5;136"/>
+   <todo name="TODO: See if caughtError and rethrowError can be unified." pos="2;1074"/>
+   <todo name="Todo: Support the entire DOM.scry query syntax. For now, these simple" pos="2;1217"/>
+   <todo name="TODO: If this is a HostRoot we might want to bail out." pos="25;1499"/>
+   <todo name="TODO: shouldPreventMouseEvent is DOM-specific and definitely should not" pos="3;1563"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\cjs\react-dom.development.js">
+   <todo name="TODO: Need to review this code one more time before landing" pos="54;120"/>
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="61;471"/>
+   <todo name="TODO: Once it's just Fiber we can move this to node._wrapperState" pos="5;1692"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="7;2040"/>
+   <todo name="TODO: Restore state in the microtask, after the discrete updates flush," pos="5;3973"/>
+   <todo name="TODO: Replace with flushSync" pos="3;3995"/>
+   <todo name="TODO: See if caughtError and rethrowError can be unified." pos="2;4281"/>
+   <todo name="TODO: Remove Update flag from before mutation phase by re-landing Visibility" pos="26;4437"/>
+   <todo name="TODO: Split into PassiveMountMask and PassiveUnmountMask" pos="56;4441"/>
+   <todo name="TODO: Check if this was a nested HostRoot when used with" pos="5;4478"/>
+   <todo name="TODO: Remove ConcurrentMode by reading from the root tag instead" pos="4;5136"/>
+   <todo name="TODO: This is pretty well supported by browsers. Maybe we can drop it." pos="1;5151"/>
+   <todo name="TODO: Consider warning in this path if a fallback timer is not scheduled." pos="5;5447"/>
+   <todo name="TODO: Reconsider this. The counter-argument is that the partial work" pos="3;5490"/>
+   <todo name="TODO: Retries should be allowed to expire if they are CPU bound for" pos="7;5578"/>
+   <todo name="TODO: This gets called every time we yield. We can optimize by storing" pos="3;5602"/>
+   <todo name="TODO: We really only need to unsuspend only lanes that are in the" pos="3;5764"/>
+   <todo name="TODO: Upgrade this definition once we're on a newer version of Flow that" pos="3;6041"/>
+   <todo name="TODO: This function shares a lot of logic with findInstanceBlockingEvent." pos="3;6185"/>
+   <todo name="TODO: This will read the priority if it's dispatched by the React" pos="3;6225"/>
+   <todo name="TODO: can we stop exporting these?" pos="77;6389"/>
+   <todo name="TODO: Warn if _enabled is false." pos="3;6515"/>
+   <todo name="TODO: If this is the first discrete event in the queue. Schedule an increased" pos="11;6535"/>
+   <todo name="TODO: Warn." pos="9;6540"/>
+   <todo name="TODO: Handle LowSchedulerPriority, somehow. Maybe the same lane as hydration." pos="13;6669"/>
+   <todo name="TODO: why is this nullable in the types but we read from it?" pos="12;8038"/>
+   <todo name="TODO: Figure out why `ownerDocument` is sometimes undefined in IE8." pos="5;8044"/>
+   <todo name="TODO: Disabled elements should not respond to mouse events" pos="21;8898"/>
+   <todo name="TODO: ideally, we'd eventually add all events from" pos="51;8969"/>
+   <todo name="TODO: remove top-level side effect." pos="1;8989"/>
+   <todo name="TODO: we should remove the concept of a &quot;SimpleEventPlugin&quot;." pos="3;8997"/>
+   <todo name="TODO: If this is a HostRoot we might want to bail out." pos="25;9380"/>
+   <todo name="TODO: Only do this for the relevant Safaris maybe?" pos="3;9665"/>
+   <todo name="TODO: Handle wasCustomComponentTag" pos="3;9725"/>
+   <todo name="TODO: Make sure that we check isMounted before firing any of these events." pos="5;9830"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="7;9924"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="7;9931"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="9;9947"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="9;9988"/>
+   <todo name="TODO: Ensure that an update gets scheduled if any of the special props" pos="96;10142"/>
+   <todo name="TODO: Make sure that we check isMounted before firing any of these events." pos="5;10184"/>
+   <todo name="TODO: Only ignore them on controlled tags." pos="9;10269"/>
+   <todo name="TODO: Warn if there is more than a single textNode as a child." pos="7;10304"/>
+   <todo name="TODO: Should we use domElement.firstChild.nodeValue to compare?" pos="7;10305"/>
+   <todo name="TODO: Only ignore them on controlled tags." pos="7;10340"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="7;10431"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="7;10438"/>
+   <todo name="TODO: Consider not doing this for input and textarea." pos="7;10450"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="9;10455"/>
+   <todo name="TODO: Remove this special case if we can just avoid inserting empty" pos="7;10506"/>
+   <todo name="TODO: Distinguish by namespace here -- for &lt;title>, including it here" pos="3;10555"/>
+   <todo name="TODO: take namespace into account when validating." pos="5;10927"/>
+   <todo name="TODO: Determine the best fallback here." pos="22;11009"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="5;11082"/>
+   <todo name="TODO: Warn, we didn't find the end comment boundary." pos="19;11136"/>
+   <todo name="TODO: Does this work for all element types? What about MathML? Should we" pos="3;11153"/>
+   <todo name="TODO: Possibly defer this until the commit phase where all the events" pos="56;11291"/>
+   <todo name="TODO: Temporary hack to check if we're in a concurrent root. We can delete" pos="5;11300"/>
+   <todo name="TODO: Temporary hack to check if we're in a concurrent root. We can delete" pos="60;11308"/>
+   <todo name="TODO: Warn, we didn't find the end comment boundary." pos="5;11340"/>
+   <todo name="TODO: This gets logged by onRecoverableError, too, so we should be" pos="5;11470"/>
+   <todo name="TODO: This function is only called on host components. I don't think all of" pos="3;11487"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="53;11880"/>
+   <todo name="TODO: There's only a single type of callback: performSyncOnWorkOnRoot. So" pos="3;12015"/>
+   <todo name="TODO: Is this necessary anymore? The only user code that runs in this" pos="30;12032"/>
+   <todo name="TODO: Use the unified fiber stack module instead of this local one?" pos="1;12065"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="111;12312"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="102;12384"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="98;12395"/>
+   <todo name="TODO: Type this specific to this type of component." pos="151;12563"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="98;12592"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="113;12605"/>
+   <todo name="TODO: Because we don't have a work-in-progress, this will add the" pos="39;13123"/>
+   <todo name="TODO: Pass `current` as argument" pos="5;13759"/>
+   <todo name="TODO: Don't need to accumulate this. Instead, we can remove renderLanes" pos="37;13783"/>
+   <todo name="TODO: In some cases, we'll end up checking if context has changed twice," pos="167;14697"/>
+   <todo name="TODO: Clean this up once we turn on the string ref warning for" pos="7;14804"/>
+   <todo name="TODO: For the shouldClone case, this could be micro-optimized a bit by" pos="7;14934"/>
+   <todo name="TODO: This breaks on empty slots like null children. That's" pos="9;15351"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="9;15373"/>
+   <todo name="TODO: Defer siblings if we're not at the right index for this slot." pos="9;15376"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="11;15412"/>
+   <todo name="TODO: This breaks on empty slots like null children. That's" pos="9;15545"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="9;15567"/>
+   <todo name="TODO: Defer siblings if we're not at the right index for this slot." pos="9;15570"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="11;15606"/>
+   <todo name="TODO: If key === null and child.key === null, then this only applies to" pos="7;15693"/>
+   <todo name="TODO: If key === null and child.key === null, then this only applies to" pos="7;15762"/>
+   <todo name="TODO: This function is supposed to be non-recursive." pos="38;15814"/>
+   <todo name="TODO Clear this data once all pending hydration work is finished." pos="52;16099"/>
+   <todo name="TODO: Maybe there's some way to consolidate this with" pos="1;16135"/>
+   <todo name="TODO Warn if no hooks are used at all during mount, then some are used during update." pos="3;16282"/>
+   <todo name="TODO: Don't need to reset the flags here, because they're reset in the" pos="53;16394"/>
+   <todo name="TODO: Don't need to accumulate this. Instead, we can remove" pos="9;16634"/>
+   <todo name="TODO: Not sure if this is the desired semantics, but it's what we" pos="5;16750"/>
+   <todo name="TODO: We can move this to the passive phase once we add a pre-commit" pos="3;16845"/>
+   <todo name="TODO: If deps are provided, should we skip comparing the ref itself?" pos="5;17159"/>
+   <todo name="TODO: If deps are provided, should we skip comparing the ref itself?" pos="5;17181"/>
+   <todo name="TODO: In Fizz, id generation is specific to each server config. Maybe we" pos="39;17389"/>
+   <todo name="TODO: Do we still need to entangle transitions in this case?" pos="13;17509"/>
+   <todo name="TODO: Move to ReactFiberConcurrentUpdates?" pos="3;17555"/>
+   <todo name="TODO: Warn in strict mode if getDerivedStateFromError is" pos="9;18760"/>
+   <todo name="TODO: I think we can remove this, since we now use `DidCapture` in" pos="44;18992"/>
+   <todo name="TODO: current can be non-null here even if the component" pos="3;19195"/>
+   <todo name="TODO: current can be non-null here even if the component" pos="3;19343"/>
+   <todo name="TODO: Move the reset at in beginWork out of the common path so that" pos="9;19412"/>
+   <todo name="TODO: Consider how Offscreen should work with transitions in the future" pos="7;19436"/>
+   <todo name="TODO This way of resetting the error boundary state is a hack." pos="43;19630"/>
+   <todo name="TODO: Warn in a future release." pos="5;19738"/>
+   <todo name="TODO: Restructure so we never read values from the instance." pos="3;19783"/>
+   <todo name="TODO: Probably should inline this back" pos="3;20240"/>
+   <todo name="TODO: Should not remove render lanes that were pinged during this render" pos="3;20264"/>
+   <todo name="TODO This time should be the time at which the server rendered response that is" pos="5;20613"/>
+   <todo name="TODO: When we delete legacy mode, we should make this error argument" pos="91;20637"/>
+   <todo name="TODO: Ideally this would inherit the event time of the current render" pos="61;20686"/>
+   <todo name="TODO: We could fast path by just rendering the tail now." pos="13;21022"/>
+   <todo name="TODO: If workInProgress.child is null, we can continue on the tail immediately." pos="13;21060"/>
+   <todo name="TODO: Consider unifying this with how the root works." pos="5;21099"/>
+   <todo name="TODO: Once we add back resuming, we should check if the children are" pos="5;21254"/>
+   <todo name="TODO: Probably should refactor `beginWork` to split the bailout" pos="9;21504"/>
+   <todo name="TODO: This assumes that we're about to evaluate the component and process" pos="3;21575"/>
+   <todo name="TODO: Split the update API as separate for the props vs. children." pos="5;21776"/>
+   <todo name="TODO: Experiencing an error where oldProps is null. Suggests a host" pos="48;21781"/>
+   <todo name="TODO: Type this specific to this type of component." pos="119;21785"/>
+   <todo name="TODO: Move createInstance to beginWork and keep it on a context" pos="54;22170"/>
+   <todo name="TODO: Move this and createInstance step into the beginPhase" pos="13;22178"/>
+   <todo name="TODO: This will still suspend a synchronous tree if anything" pos="51;22301"/>
+   <todo name="TODO: Move this back to throwException because this is too late" pos="15;22306"/>
+   <todo name="TODO: Move to passive phase" pos="11;22332"/>
+   <todo name="TODO: We can probably just avoid popping it instead and only" pos="11;22559"/>
+   <todo name="TODO: popHydrationState" pos="9;22692"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="13;23011"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="17;23288"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="17;23315"/>
+   <todo name="TODO: I think this is now always non-null by the time it reaches the" pos="13;23341"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="13;23360"/>
+   <todo name="TODO: I think this is now always non-null by the time it reaches the" pos="11;23371"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; LayoutStatic" pos="3;23510"/>
+   <todo name="TODO: Move to `commitPassiveUnmountInsideDeletedTreeOnFiber` instead." pos="31;23750"/>
+   <todo name="TODO: Find a more efficient way to do this." pos="3;23779"/>
+   <todo name="TODO: Update these during the whole mutation phase, not just during" pos="1;23918"/>
+   <todo name="TODO: We" pos="70;23932"/>
+   <todo name="TODO: Instead of searching up the fiber return path on every deletion, we" pos="5;23939"/>
+   <todo name="TODO: Use a static flag to skip trees that don't have unmount effects" pos="3;23984"/>
+   <todo name="TODO: Remove this dead flag" pos="14;24145"/>
+   <todo name="TODO: If the tree is hidden, in most cases we should be able to skip" pos="11;24150"/>
+   <todo name="TODO: Move this to passive phase" pos="3;24176"/>
+   <todo name="TODO: ContentReset gets cleared by the children during the commit" pos="11;24355"/>
+   <todo name="TODO: Type the updateQueue to be specific to host components." pos="45;24381"/>
+   <todo name="TODO: Move to passive phase" pos="15;24479"/>
+   <todo name="TODO: Remove this dead flag" pos="14;24502"/>
+   <todo name="TODO: This needs to run whenever there's an insertion or update" pos="13;24546"/>
+   <todo name="TODO: findDOMNode doesn't rely on this any more but isMounted does" pos="5;24595"/>
+   <todo name="TODO (Offscreen) Also check: subtreeFlags &amp; LayoutMask" pos="9;24634"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; (RefStatic | LayoutStatic)" pos="35;24715"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; RefStatic" pos="11;24739"/>
+   <todo name="TODO (Offscreen) Check: subtreeFlags &amp; LayoutStatic" pos="7;24770"/>
+   <todo name="TODO (Offscreen) Check: subtreeFlags &amp; LayoutStatic" pos="7;24816"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; LayoutStatic" pos="29;24832"/>
+   <todo name="TODO: Check if fiber has a PassiveStatic flag" pos="5;25044"/>
+   <todo name="TODO: Only traverse subtree if it has a PassiveStatic flag. (But, if we" pos="30;25049"/>
+   <todo name="TODO: Reuse reappearLayoutEffects traversal here?" pos="3;25106"/>
+   <todo name="TODO: Include link to relevant documentation page." pos="7;25258"/>
+   <todo name="TODO: Move this type conversion to the event priority module." pos="3;25440"/>
+   <todo name="TODO: Move this type conversion to the event priority module." pos="3;25452"/>
+   <todo name="TODO: Make sure this doesn't override pings that happen while we've" pos="9;25524"/>
+   <todo name="TODO: Remove outdated deferRenderPhaseUpdateToNextBatch experiment. We" pos="11;25562"/>
+   <todo name="TODO: Temporary until we confirm this warning is not fired." pos="7;25603"/>
+   <todo name="TODO: We only check `didTimeout` defensively, to account for a Scheduler" pos="3;25731"/>
+   <todo name="TODO: It's possible that even a concurrent render may never have yielded" pos="7;25774"/>
+   <todo name="TODO: I think what we should do is set ForceClientRender inside" pos="5;25837"/>
+   <todo name="TODO: Is the JND optimization worth the added complexity? If this is" pos="11;25954"/>
+   <todo name="TODO: Lol maybe there's a better way to factor this besides this" pos="3;26057"/>
+   <todo name="TODO: I found and added this missing line while investigating a" pos="28;26270"/>
+   <todo name="TODO: Consider calling `unwindWork` to pop the contexts." pos="9;26286"/>
+   <todo name="TODO: We should probably always mark the root as suspended immediately" pos="5;26373"/>
+   <todo name="TODO: This no longer makes any sense. We already wrap the mutation and" pos="3;26673"/>
+   <todo name="TODO: Might be better if `flushPassiveEffects` did not automatically" pos="5;26696"/>
+   <todo name="TODO: Delete all other places that schedule the passive effect callback" pos="3;26753"/>
+   <todo name="TODO: This is left over from the effect list implementation, where we had" pos="3;26776"/>
+   <todo name="TODO: Maybe there's a better way to report this." pos="5;26839"/>
+   <todo name="TODO: This is part of the `componentDidCatch` implementation. Its purpose" pos="3;26864"/>
+   <todo name="TODO: We can optimize this by not scheduling the callback earlier. Since we" pos="3;26928"/>
+   <todo name="TODO: Combine this check with the one in flushPassiveEFfectsImpl. We should" pos="3;26969"/>
+   <todo name="TODO: This is sometimes out of sync with rootWithPendingPassiveEffects." pos="41;27016"/>
+   <todo name="TODO: Move to commitPassiveMountEffects" pos="70;27038"/>
+   <todo name="TODO: Move to commitPassiveMountEffects" pos="5;27077"/>
+   <todo name="TODO: Until we re-land skipUnmountedBoundaries (see #20147), this warning" pos="5;27169"/>
+   <todo name="TODO: If we're rendering sync either due to Sync, Batched or expired," pos="5;27194"/>
+   <todo name="TODO: Assign this to `suspenseState.retryLane`? to avoid" pos="5;27217"/>
+   <todo name="TODO: Special case idle priority?" pos="5;27220"/>
+   <todo name="TODO (StrictEffects) Should we set a marker on the root if it contains strict effects" pos="5;27316"/>
+   <todo name="TODO: if it was but can no longer be simple," pos="13;27735"/>
+   <todo name="TODO: Consider warning about bad polyfills" pos="5;28028"/>
+   <todo name="TODO: We have several of these arguments that are conceptually part of the" pos="142;28655"/>
+   <todo name="TODO: figure out the API for cross-renderer implementation." pos="48;28686"/>
+   <todo name="TODO: Remove `callback` when we delete legacy mode." pos="52;28786"/>
+   <todo name="TODO: Move this to FiberRoot constructor" pos="185;28789"/>
+   <todo name="TODO: Delete this option" pos="62;29415"/>
+   <todo name="TODO: Remove this function which also includes comment nodes." pos="3;29453"/>
+   <todo name="TODO: throw or warn if we couldn't hydrate?" pos="5;29662"/>
+   <todo name="TODO: pass ReactDOM portal implementation as third argument" pos="5;29774"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\umd\react-dom-server-legacy.browser.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="63;292"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="9;1859"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="62;1961"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="5;2052"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="13;2111"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="15;2183"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="33;2393"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="11;2407"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="7;2588"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="5;2683"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="7;2846"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="7;3018"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="6;3147"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="7;3981"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="5;4799"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="5;5202"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="5;5580"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="7;5624"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="7;5956"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="7;5963"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="65;5976"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="11;6157"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="5;6244"/>
+   <todo name="TODO: Emit preloading." pos="7;6796"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="7;6797"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="34;6845"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\umd\react-dom-server.browser.development.js">
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="63;358"/>
+   <todo name="TODO: We used to set empty string as a style with an empty value. Does that ever make sense?" pos="9;1930"/>
+   <todo name="TODO: If it's known we can cache the chunk." pos="62;2032"/>
+   <todo name="TODO: Move these to ResponseState so that we warn for every request." pos="5;2123"/>
+   <todo name="TODO: This doesn't really make sense for select since it can't use the controlled" pos="13;2182"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="15;2254"/>
+   <todo name="TODO (yungsters): Remove support for children content in &lt;textarea>." pos="33;2464"/>
+   <todo name="TODO: remove the coercion and the DEV check below because it will" pos="11;2478"/>
+   <todo name="TODO: Remove this special case after the general optimization is in place." pos="7;2659"/>
+   <todo name="TODO: This doesn't deal with the case where the child is an array" pos="5;2754"/>
+   <todo name="TODO: Instead of repeating this switch we could try to pass a flag from above." pos="7;2917"/>
+   <todo name="TODO: For the rest of these, there will be extra wrapper nodes that never" pos="7;3089"/>
+   <todo name="TODO: We could avoid this if we never emitted suspense boundaries in fallback trees." pos="6;3218"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="7;3978"/>
+   <todo name="TODO: Math.clz32 is supported in Node 12+. Maybe we can drop the fallback." pos="5;4796"/>
+   <todo name="TODO Decide on how to implement this hook for server rendering." pos="5;5199"/>
+   <todo name="TODO: Call this directly instead of messing with saving and restoring contexts." pos="5;5577"/>
+   <todo name="TODO: This should be queued at a separate lower priority queue so that we only work" pos="7;5621"/>
+   <todo name="TODO: LegacyHidden acts the same as a fragment. This only works" pos="7;5953"/>
+   <todo name="TODO: Add REACT_OFFSCREEN_TYPE here too with the same capability." pos="7;5960"/>
+   <todo name="TODO: SuspenseList should control the boundaries." pos="65;5973"/>
+   <todo name="TODO: This is not great but I think it's inherent to the id" pos="11;6154"/>
+   <todo name="TODO: Store segment.children.length here and reset it in case something" pos="5;6241"/>
+   <todo name="TODO: Emit preloading." pos="7;6794"/>
+   <todo name="TODO: It's kind of unfortunate to keep checking this array after we've already" pos="7;6795"/>
+   <todo name="TODO: Here we'll emit data used by hydration." pos="34;6843"/>
+   <todo name="TODO: Move to sub-classing ReadableStream." pos="13;6965"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\umd\react-dom-test-utils.development.js">
+   <todo name="TODO: Check if this was a nested HostRoot when used with" pos="7;132"/>
+   <todo name="TODO: See if caughtError and rethrowError can be unified." pos="2;1070"/>
+   <todo name="Todo: Support the entire DOM.scry query syntax. For now, these simple" pos="2;1213"/>
+   <todo name="TODO: If this is a HostRoot we might want to bail out." pos="27;1495"/>
+   <todo name="TODO: shouldPreventMouseEvent is DOM-specific and definitely should not" pos="5;1559"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-dom\umd\react-dom.development.js">
+   <todo name="TODO: Need to review this code one more time before landing" pos="56;107"/>
+   <todo name="TODO: This prevents the assignment of defaultValue to regular" pos="63;458"/>
+   <todo name="TODO: Once it's just Fiber we can move this to node._wrapperState" pos="7;1679"/>
+   <todo name="TODO: Remove support for `selected` in &lt;option>." pos="9;2027"/>
+   <todo name="TODO: Restore state in the microtask, after the discrete updates flush," pos="7;3960"/>
+   <todo name="TODO: Replace with flushSync" pos="5;3982"/>
+   <todo name="TODO: See if caughtError and rethrowError can be unified." pos="2;4268"/>
+   <todo name="TODO: Remove Update flag from before mutation phase by re-landing Visibility" pos="28;4447"/>
+   <todo name="TODO: Split into PassiveMountMask and PassiveUnmountMask" pos="58;4451"/>
+   <todo name="TODO: Check if this was a nested HostRoot when used with" pos="7;4488"/>
+   <todo name="TODO: Remove ConcurrentMode by reading from the root tag instead" pos="6;5146"/>
+   <todo name="TODO: This is pretty well supported by browsers. Maybe we can drop it." pos="3;5161"/>
+   <todo name="TODO: Consider warning in this path if a fallback timer is not scheduled." pos="7;5457"/>
+   <todo name="TODO: Reconsider this. The counter-argument is that the partial work" pos="5;5500"/>
+   <todo name="TODO: Retries should be allowed to expire if they are CPU bound for" pos="9;5588"/>
+   <todo name="TODO: This gets called every time we yield. We can optimize by storing" pos="5;5612"/>
+   <todo name="TODO: We really only need to unsuspend only lanes that are in the" pos="5;5774"/>
+   <todo name="TODO: Upgrade this definition once we're on a newer version of Flow that" pos="5;6051"/>
+   <todo name="TODO: This function shares a lot of logic with findInstanceBlockingEvent." pos="5;6195"/>
+   <todo name="TODO: This will read the priority if it's dispatched by the React" pos="5;6235"/>
+   <todo name="TODO: can we stop exporting these?" pos="79;6399"/>
+   <todo name="TODO: Warn if _enabled is false." pos="5;6525"/>
+   <todo name="TODO: If this is the first discrete event in the queue. Schedule an increased" pos="13;6545"/>
+   <todo name="TODO: Warn." pos="11;6550"/>
+   <todo name="TODO: Handle LowSchedulerPriority, somehow. Maybe the same lane as hydration." pos="15;6679"/>
+   <todo name="TODO: why is this nullable in the types but we read from it?" pos="14;8048"/>
+   <todo name="TODO: Figure out why `ownerDocument` is sometimes undefined in IE8." pos="7;8054"/>
+   <todo name="TODO: Disabled elements should not respond to mouse events" pos="23;8908"/>
+   <todo name="TODO: ideally, we'd eventually add all events from" pos="53;8979"/>
+   <todo name="TODO: remove top-level side effect." pos="3;8999"/>
+   <todo name="TODO: we should remove the concept of a &quot;SimpleEventPlugin&quot;." pos="5;9007"/>
+   <todo name="TODO: If this is a HostRoot we might want to bail out." pos="27;9390"/>
+   <todo name="TODO: Only do this for the relevant Safaris maybe?" pos="5;9675"/>
+   <todo name="TODO: Handle wasCustomComponentTag" pos="5;9735"/>
+   <todo name="TODO: Make sure that we check isMounted before firing any of these events." pos="7;9840"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="9;9934"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="9;9941"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="11;9957"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="11;9998"/>
+   <todo name="TODO: Ensure that an update gets scheduled if any of the special props" pos="98;10152"/>
+   <todo name="TODO: Make sure that we check isMounted before firing any of these events." pos="7;10194"/>
+   <todo name="TODO: Only ignore them on controlled tags." pos="11;10279"/>
+   <todo name="TODO: Warn if there is more than a single textNode as a child." pos="9;10314"/>
+   <todo name="TODO: Should we use domElement.firstChild.nodeValue to compare?" pos="9;10315"/>
+   <todo name="TODO: Only ignore them on controlled tags." pos="9;10350"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="9;10441"/>
+   <todo name="TODO: Make sure we check if this is still unmounted or do any clean" pos="9;10448"/>
+   <todo name="TODO: Consider not doing this for input and textarea." pos="9;10460"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="11;10465"/>
+   <todo name="TODO: Remove this special case if we can just avoid inserting empty" pos="9;10516"/>
+   <todo name="TODO: Distinguish by namespace here -- for &lt;title>, including it here" pos="5;10565"/>
+   <todo name="TODO: take namespace into account when validating." pos="7;10937"/>
+   <todo name="TODO: Determine the best fallback here." pos="24;11019"/>
+   <todo name="TODO: This cast may not be sound for SVG, MathML or custom elements." pos="7;11092"/>
+   <todo name="TODO: Warn, we didn't find the end comment boundary." pos="21;11146"/>
+   <todo name="TODO: Does this work for all element types? What about MathML? Should we" pos="5;11163"/>
+   <todo name="TODO: Possibly defer this until the commit phase where all the events" pos="58;11301"/>
+   <todo name="TODO: Temporary hack to check if we're in a concurrent root. We can delete" pos="7;11310"/>
+   <todo name="TODO: Temporary hack to check if we're in a concurrent root. We can delete" pos="62;11318"/>
+   <todo name="TODO: Warn, we didn't find the end comment boundary." pos="7;11350"/>
+   <todo name="TODO: This gets logged by onRecoverableError, too, so we should be" pos="7;11480"/>
+   <todo name="TODO: This function is only called on host components. I don't think all of" pos="5;11497"/>
+   <todo name="TODO (bvaughn) Replace this behavior with an invariant() in the future." pos="55;11890"/>
+   <todo name="TODO: There's only a single type of callback: performSyncOnWorkOnRoot. So" pos="5;12025"/>
+   <todo name="TODO: Is this necessary anymore? The only user code that runs in this" pos="32;12042"/>
+   <todo name="TODO: Use the unified fiber stack module instead of this local one?" pos="3;12075"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="113;12322"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="104;12394"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="100;12405"/>
+   <todo name="TODO: Type this specific to this type of component." pos="153;12573"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="100;12602"/>
+   <todo name="TODO: Delete this argument when we remove the legacy root API." pos="115;12615"/>
+   <todo name="TODO: Because we don't have a work-in-progress, this will add the" pos="41;13133"/>
+   <todo name="TODO: Pass `current` as argument" pos="7;13769"/>
+   <todo name="TODO: Don't need to accumulate this. Instead, we can remove renderLanes" pos="39;13793"/>
+   <todo name="TODO: In some cases, we'll end up checking if context has changed twice," pos="169;14707"/>
+   <todo name="TODO: Clean this up once we turn on the string ref warning for" pos="9;14814"/>
+   <todo name="TODO: For the shouldClone case, this could be micro-optimized a bit by" pos="9;14944"/>
+   <todo name="TODO: This breaks on empty slots like null children. That's" pos="11;15361"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="11;15383"/>
+   <todo name="TODO: Defer siblings if we're not at the right index for this slot." pos="11;15386"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="13;15422"/>
+   <todo name="TODO: This breaks on empty slots like null children. That's" pos="11;15555"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="11;15577"/>
+   <todo name="TODO: Defer siblings if we're not at the right index for this slot." pos="11;15580"/>
+   <todo name="TODO: Move out of the loop. This only happens for the first run." pos="13;15616"/>
+   <todo name="TODO: If key === null and child.key === null, then this only applies to" pos="9;15703"/>
+   <todo name="TODO: If key === null and child.key === null, then this only applies to" pos="9;15772"/>
+   <todo name="TODO: This function is supposed to be non-recursive." pos="40;15824"/>
+   <todo name="TODO Clear this data once all pending hydration work is finished." pos="54;16109"/>
+   <todo name="TODO: Maybe there's some way to consolidate this with" pos="3;16145"/>
+   <todo name="TODO Warn if no hooks are used at all during mount, then some are used during update." pos="5;16292"/>
+   <todo name="TODO: Don't need to reset the flags here, because they're reset in the" pos="55;16404"/>
+   <todo name="TODO: Don't need to accumulate this. Instead, we can remove" pos="11;16644"/>
+   <todo name="TODO: Not sure if this is the desired semantics, but it's what we" pos="7;16760"/>
+   <todo name="TODO: We can move this to the passive phase once we add a pre-commit" pos="5;16855"/>
+   <todo name="TODO: If deps are provided, should we skip comparing the ref itself?" pos="7;17169"/>
+   <todo name="TODO: If deps are provided, should we skip comparing the ref itself?" pos="7;17191"/>
+   <todo name="TODO: In Fizz, id generation is specific to each server config. Maybe we" pos="41;17399"/>
+   <todo name="TODO: Do we still need to entangle transitions in this case?" pos="15;17519"/>
+   <todo name="TODO: Move to ReactFiberConcurrentUpdates?" pos="5;17565"/>
+   <todo name="TODO: Warn in strict mode if getDerivedStateFromError is" pos="11;18770"/>
+   <todo name="TODO: I think we can remove this, since we now use `DidCapture` in" pos="46;19002"/>
+   <todo name="TODO: current can be non-null here even if the component" pos="5;19205"/>
+   <todo name="TODO: current can be non-null here even if the component" pos="5;19353"/>
+   <todo name="TODO: Move the reset at in beginWork out of the common path so that" pos="11;19422"/>
+   <todo name="TODO: Consider how Offscreen should work with transitions in the future" pos="9;19446"/>
+   <todo name="TODO This way of resetting the error boundary state is a hack." pos="45;19640"/>
+   <todo name="TODO: Warn in a future release." pos="7;19748"/>
+   <todo name="TODO: Restructure so we never read values from the instance." pos="5;19793"/>
+   <todo name="TODO: Probably should inline this back" pos="5;20250"/>
+   <todo name="TODO: Should not remove render lanes that were pinged during this render" pos="5;20274"/>
+   <todo name="TODO This time should be the time at which the server rendered response that is" pos="7;20623"/>
+   <todo name="TODO: When we delete legacy mode, we should make this error argument" pos="93;20647"/>
+   <todo name="TODO: Ideally this would inherit the event time of the current render" pos="63;20696"/>
+   <todo name="TODO: We could fast path by just rendering the tail now." pos="15;21032"/>
+   <todo name="TODO: If workInProgress.child is null, we can continue on the tail immediately." pos="15;21070"/>
+   <todo name="TODO: Consider unifying this with how the root works." pos="7;21109"/>
+   <todo name="TODO: Once we add back resuming, we should check if the children are" pos="7;21264"/>
+   <todo name="TODO: Probably should refactor `beginWork` to split the bailout" pos="11;21514"/>
+   <todo name="TODO: This assumes that we're about to evaluate the component and process" pos="5;21585"/>
+   <todo name="TODO: Split the update API as separate for the props vs. children." pos="7;21786"/>
+   <todo name="TODO: Experiencing an error where oldProps is null. Suggests a host" pos="50;21791"/>
+   <todo name="TODO: Type this specific to this type of component." pos="121;21795"/>
+   <todo name="TODO: Move createInstance to beginWork and keep it on a context" pos="56;22180"/>
+   <todo name="TODO: Move this and createInstance step into the beginPhase" pos="15;22188"/>
+   <todo name="TODO: This will still suspend a synchronous tree if anything" pos="53;22311"/>
+   <todo name="TODO: Move this back to throwException because this is too late" pos="17;22316"/>
+   <todo name="TODO: Move to passive phase" pos="13;22342"/>
+   <todo name="TODO: We can probably just avoid popping it instead and only" pos="13;22569"/>
+   <todo name="TODO: popHydrationState" pos="11;22702"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="15;23021"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="19;23298"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="19;23325"/>
+   <todo name="TODO: I think this is now always non-null by the time it reaches the" pos="15;23351"/>
+   <todo name="TODO: revisit this when we implement resuming." pos="15;23370"/>
+   <todo name="TODO: I think this is now always non-null by the time it reaches the" pos="13;23381"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; LayoutStatic" pos="5;23520"/>
+   <todo name="TODO: Move to `commitPassiveUnmountInsideDeletedTreeOnFiber` instead." pos="33;23760"/>
+   <todo name="TODO: Find a more efficient way to do this." pos="5;23789"/>
+   <todo name="TODO: Update these during the whole mutation phase, not just during" pos="3;23928"/>
+   <todo name="TODO: We" pos="72;23942"/>
+   <todo name="TODO: Instead of searching up the fiber return path on every deletion, we" pos="7;23949"/>
+   <todo name="TODO: Use a static flag to skip trees that don't have unmount effects" pos="5;23994"/>
+   <todo name="TODO: Remove this dead flag" pos="16;24155"/>
+   <todo name="TODO: If the tree is hidden, in most cases we should be able to skip" pos="13;24160"/>
+   <todo name="TODO: Move this to passive phase" pos="5;24186"/>
+   <todo name="TODO: ContentReset gets cleared by the children during the commit" pos="13;24365"/>
+   <todo name="TODO: Type the updateQueue to be specific to host components." pos="47;24391"/>
+   <todo name="TODO: Move to passive phase" pos="17;24489"/>
+   <todo name="TODO: Remove this dead flag" pos="16;24512"/>
+   <todo name="TODO: This needs to run whenever there's an insertion or update" pos="15;24556"/>
+   <todo name="TODO: findDOMNode doesn't rely on this any more but isMounted does" pos="7;24605"/>
+   <todo name="TODO (Offscreen) Also check: subtreeFlags &amp; LayoutMask" pos="11;24644"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; (RefStatic | LayoutStatic)" pos="37;24725"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; RefStatic" pos="13;24749"/>
+   <todo name="TODO (Offscreen) Check: subtreeFlags &amp; LayoutStatic" pos="9;24780"/>
+   <todo name="TODO (Offscreen) Check: subtreeFlags &amp; LayoutStatic" pos="9;24826"/>
+   <todo name="TODO (Offscreen) Check: flags &amp; LayoutStatic" pos="31;24842"/>
+   <todo name="TODO: Check if fiber has a PassiveStatic flag" pos="7;25054"/>
+   <todo name="TODO: Only traverse subtree if it has a PassiveStatic flag. (But, if we" pos="32;25059"/>
+   <todo name="TODO: Reuse reappearLayoutEffects traversal here?" pos="5;25116"/>
+   <todo name="TODO: Include link to relevant documentation page." pos="9;25268"/>
+   <todo name="TODO: Move this type conversion to the event priority module." pos="5;25450"/>
+   <todo name="TODO: Move this type conversion to the event priority module." pos="5;25462"/>
+   <todo name="TODO: Make sure this doesn't override pings that happen while we've" pos="11;25534"/>
+   <todo name="TODO: Remove outdated deferRenderPhaseUpdateToNextBatch experiment. We" pos="13;25572"/>
+   <todo name="TODO: Temporary until we confirm this warning is not fired." pos="9;25613"/>
+   <todo name="TODO: We only check `didTimeout` defensively, to account for a Scheduler" pos="5;25741"/>
+   <todo name="TODO: It's possible that even a concurrent render may never have yielded" pos="9;25784"/>
+   <todo name="TODO: I think what we should do is set ForceClientRender inside" pos="7;25847"/>
+   <todo name="TODO: Is the JND optimization worth the added complexity? If this is" pos="13;25964"/>
+   <todo name="TODO: Lol maybe there's a better way to factor this besides this" pos="5;26067"/>
+   <todo name="TODO: I found and added this missing line while investigating a" pos="30;26280"/>
+   <todo name="TODO: Consider calling `unwindWork` to pop the contexts." pos="11;26296"/>
+   <todo name="TODO: We should probably always mark the root as suspended immediately" pos="7;26383"/>
+   <todo name="TODO: This no longer makes any sense. We already wrap the mutation and" pos="5;26683"/>
+   <todo name="TODO: Might be better if `flushPassiveEffects` did not automatically" pos="7;26706"/>
+   <todo name="TODO: Delete all other places that schedule the passive effect callback" pos="5;26763"/>
+   <todo name="TODO: This is left over from the effect list implementation, where we had" pos="5;26786"/>
+   <todo name="TODO: Maybe there's a better way to report this." pos="7;26849"/>
+   <todo name="TODO: This is part of the `componentDidCatch` implementation. Its purpose" pos="5;26874"/>
+   <todo name="TODO: We can optimize this by not scheduling the callback earlier. Since we" pos="5;26938"/>
+   <todo name="TODO: Combine this check with the one in flushPassiveEFfectsImpl. We should" pos="5;26979"/>
+   <todo name="TODO: This is sometimes out of sync with rootWithPendingPassiveEffects." pos="43;27026"/>
+   <todo name="TODO: Move to commitPassiveMountEffects" pos="72;27048"/>
+   <todo name="TODO: Move to commitPassiveMountEffects" pos="7;27087"/>
+   <todo name="TODO: Until we re-land skipUnmountedBoundaries (see #20147), this warning" pos="7;27179"/>
+   <todo name="TODO: If we're rendering sync either due to Sync, Batched or expired," pos="7;27204"/>
+   <todo name="TODO: Assign this to `suspenseState.retryLane`? to avoid" pos="7;27227"/>
+   <todo name="TODO: Special case idle priority?" pos="7;27230"/>
+   <todo name="TODO (StrictEffects) Should we set a marker on the root if it contains strict effects" pos="7;27326"/>
+   <todo name="TODO: if it was but can no longer be simple," pos="15;27745"/>
+   <todo name="TODO: Consider warning about bad polyfills" pos="7;28038"/>
+   <todo name="TODO: We have several of these arguments that are conceptually part of the" pos="144;28665"/>
+   <todo name="TODO: figure out the API for cross-renderer implementation." pos="50;28696"/>
+   <todo name="TODO: Remove `callback` when we delete legacy mode." pos="54;28796"/>
+   <todo name="TODO: Move this to FiberRoot constructor" pos="187;28799"/>
+   <todo name="TODO: Delete this option" pos="64;29425"/>
+   <todo name="TODO: Remove this function which also includes comment nodes." pos="5;29463"/>
+   <todo name="TODO: throw or warn if we couldn't hydrate?" pos="7;29672"/>
+   <todo name="TODO: pass ReactDOM portal implementation as third argument" pos="7;29784"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-is\cjs\react-is.development.js">
+   <todo name="TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary" pos="76;26"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react-is\umd\react-is.development.js">
+   <todo name="TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary" pos="78;26"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react\cjs\react-jsx-dev-runtime.development.js">
+   <todo name="TODO: Drop this when these are no longer allowed as the type argument." pos="5;1247"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react\cjs\react-jsx-runtime.development.js">
+   <todo name="TODO: Drop this when these are no longer allowed as the type argument." pos="5;1247"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react\cjs\react.development.js">
+   <todo name="TODO: Expose pendingState or don't use it" pos="33;285"/>
+   <todo name="TODO: Second argument used to be an optional `calculateChangedBits`" pos="3;1235"/>
+   <todo name="TODO: add a more generic warning for invalid values." pos="5;1604"/>
+   <todo name="TODO: Drop this when these are no longer allowed as the type argument." pos="3;2358"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\react\umd\react.development.js">
+   <todo name="TODO: Expose pendingState or don't use it" pos="33;275"/>
+   <todo name="TODO: Second argument used to be an optional `calculateChangedBits`" pos="5;1225"/>
+   <todo name="TODO: add a more generic warning for invalid values." pos="7;1594"/>
+   <todo name="TODO: Drop this when these are no longer allowed as the type argument." pos="5;2348"/>
+   <todo name="TODO: Use symbols?" pos="3;2497"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\readable-stream\lib\_stream_readable.js">
+   <todo name="TODO(ronag): Throw ERR_VALUE_OUT_OF_RANGE." pos="5;350"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\readable-stream\lib\_stream_transform.js">
+   <todo name="TODO(BridgeAR): Write a test for these two error cases" pos="24;193"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\readable-stream\lib\_stream_writable.js">
+   <todo name="TODO: defer error events consistently everywhere, not just the cb" pos="46;260"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\rollup\dist\es\shared\rollup.js">
+   <todo name="TODO is this block necessary?..." pos="4;291"/>
+   <todo name="TODO last chunk in the array may not be the last chunk, if it's moved..." pos="4;914"/>
+   <todo name="TODO deprecate this? not really very useful" pos="2;1072"/>
+   <todo name="TODO there's a bunch of this sort of thing, needs cleaning up" pos="4;1352"/>
+   <todo name="TODO we are pretending it was not found while it should behave like &quot;undefined&quot;" pos="13;13720"/>
+   <todo name="TODO" pos="5;14093"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\rollup\dist\es\shared\watch.js">
+   <todo name="TODO: emit errors properly. Example: EMFILE on Macos." pos="1;2471"/>
+   <todo name="TODO" pos="5;2683"/>
+   <todo name="TODO: real check" pos="3;3101"/>
+   <todo name="TODO: Strange thing: &quot;should not choke on an ignored watch path&quot; will be failed without 2 ready cal" pos="7;3587"/>
+   <todo name="TODO: this is not equal to path-normalize module - investigate why" pos="1;3728"/>
+   <todo name="TODO: throws or warn? Currently just ignore, uses new event" pos="17;4691"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\rollup\dist\shared\index.js">
+   <todo name="TODO: emit errors properly. Example: EMFILE on Macos." pos="1;2465"/>
+   <todo name="TODO" pos="5;2677"/>
+   <todo name="TODO: real check" pos="3;3095"/>
+   <todo name="TODO: Strange thing: &quot;should not choke on an ignored watch path&quot; will be failed without 2 ready cal" pos="7;3581"/>
+   <todo name="TODO: this is not equal to path-normalize module - investigate why" pos="1;3722"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\rollup\dist\shared\rollup.js">
+   <todo name="TODO is this block necessary?..." pos="4;1562"/>
+   <todo name="TODO last chunk in the array may not be the last chunk, if it's moved..." pos="4;2185"/>
+   <todo name="TODO deprecate this? not really very useful" pos="2;2343"/>
+   <todo name="TODO there's a bunch of this sort of thing, needs cleaning up" pos="4;2623"/>
+   <todo name="TODO we are pretending it was not found while it should behave like &quot;undefined&quot;" pos="13;14239"/>
+   <todo name="TODO" pos="5;14612"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\rollup\dist\shared\watch.js">
+   <todo name="TODO: throws or warn? Currently just ignore, uses new event" pos="17;137"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\scheduler\cjs\scheduler-unstable_mock.development.js">
+   <todo name="TODO: Use symbols?" pos="1;100"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\scheduler\cjs\scheduler-unstable_post_task.development.js">
+   <todo name="TODO: Use symbols?" pos="1;16"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\scheduler\cjs\scheduler.development.js">
+   <todo name="TODO: Use symbols?" pos="1;110"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\scheduler\umd\scheduler-unstable_mock.development.js">
+   <todo name="TODO: Use symbols?" pos="3;99"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\string-width\index.d.ts">
+   <todo name="TODO: remove this in the next major version, refactor the whole definition to:" pos="2;22"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\string-width\index.js">
+   <todo name="TODO: remove this in the next major version" pos="1;45"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\tar\lib\mkdir.js">
+   <todo name="TODO: This should probably be a class, not functionally" pos="1;3"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\tough-cookie\lib\cookie.js">
+   <todo name="TODO persist lastAccessed" pos="9;1430"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\tr46\index.js">
+   <todo name="TODO: make this more efficient" pos="13;117"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\w3c-xmlserializer\lib\attributes.js">
+   <todo name="TODO: Check well-formedness" pos="3;27"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\whatwg-url\lib\percent-encoding.js">
+   <todo name="TODO: support encodi" pos="80;93"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\whatwg-url\lib\url-state-machine.js">
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1021"/>
+   <todo name="TODO: Add: not a URL code point" pos="5;1043"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1078"/>
+   <todo name="TODO: If c is not a URL code point and not &quot;%&quot;, parse error." pos="5;1094"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\whatwg-url\lib\urlencoded.js">
+   <todo name="TODO &quot;get the output encoding&quot;, i.e. handle encoding labels vs. names." pos="5;48"/>
+   <todo name="TODO: handle encoding override" pos="5;54"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\yaml\browser\dist\Schema-e94716c8.js">
+   <todo name="TODO: deprecate/remove class check" pos="5;523"/>
+   <todo name="TODO: remove in v2" pos="3;633"/>
+   <todo name="TODO: remove in v2" pos="3;634"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\yaml\browser\dist\index.js">
+   <todo name="TODO Set true in v2" pos="3;17"/>
+   <todo name="TODO: deprecate/remove class check" pos="23;147"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\yaml\dist\Document-9b4560a1.js">
+   <todo name="TODO Set true in v2" pos="3;17"/>
+   <todo name="TODO: deprecate/remove class check" pos="23;137"/>
+  </todofile>
+  <todofile name="E:\Programacion\JavaScript\Code\test-editor-img\node_modules\yaml\dist\Schema-88e323a7.js">
+   <todo name="TODO: deprecate/remove class check" pos="5;392"/>
+   <todo name="TODO: remove in v2" pos="3;483"/>
+   <todo name="TODO: remove in v2" pos="3;484"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <lasttime value="1675795267"/>
+</project>
